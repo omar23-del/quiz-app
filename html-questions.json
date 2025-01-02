@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Who is the most decorated player in UEFA Champions League history?",
+    "answer_1": "Cristiano Ronaldo",
+    "answer_2": "Lionel Messi",
+    "answer_3": "Francesco Totti",
+    "answer_4": "Paco Gento",
+    "correct_answer": "Paco Gento"
+  },
+  {
+    "question": "Which team won the treble (League, Cup, and Champions League) in 2020?",
+    "answer_1": "Real Madrid",
+    "answer_2": "Bayern Munich",
+    "answer_3": "Liverpool",
+    "answer_4": "Paris Saint-Germain",
+    "correct_answer": "Bayern Munich"
+  },
+  {
+    "question": "Who was the coach that led Manchester City to their first UEFA Champions League victory?",
+    "answer_1": "Pep Guardiola",
+    "answer_2": "Jürgen Klopp",
+    "answer_3": "Zinedine Zidane",
+    "answer_4": "Antonio Conte",
+    "correct_answer": "Pep Guardiola"
+  },
+  {
+    "question": "Who won the Premier League Golden Boot in the 2020/2021 season?",
+    "answer_1": "Harry Kane",
+    "answer_2": "Mohamed Salah",
+    "answer_3": "Bruno Fernandes",
+    "answer_4": "Kevin De Bruyne",
+    "correct_answer": "Harry Kane"
+  },
+  {
+    "question": "How many UEFA Champions League titles had Real Madrid won by 2024?",
+    "answer_1": "13",
+    "answer_2": "14",
+    "answer_3": "15",
+    "answer_4": "12",
+    "correct_answer": "14"
+  },
+  {
+    "question": "Which club won the La Liga title in the 2022/2023 season?",
+    "answer_1": "Real Madrid",
+    "answer_2": "Barcelona",
+    "answer_3": "Atletico Madrid",
+    "answer_4": "Sevilla",
+    "correct_answer": "Barcelona"
+  },
+  {
+    "question": "Who is the top scorer in the history of the Portugal national football team?",
+    "answer_1": "Cristiano Ronaldo",
+    "answer_2": "Eusébio",
+    "answer_3": "Luis Figo",
+    "answer_4": "Rúben Neves",
+    "correct_answer": "Cristiano Ronaldo"
+  },
+  {
+    "question": "In what year was the first UEFA Champions League edition held?",
+    "answer_1": "1955",
+    "answer_2": "1960",
+    "answer_3": "1975",
+    "answer_4": "1980",
+    "correct_answer": "1955"
+  },
+  {
+    "question": "Which club won the Serie A title in the 2022/2023 season?",
+    "answer_1": "Juventus",
+    "answer_2": "AC Milan",
+    "answer_3": "Inter Milan",
+    "answer_4": "Napoli",
+    "correct_answer": "Napoli"
+  },
+  {
+    "question": "How many goals did Lionel Messi score for Barcelona in all competitions before joining Paris Saint-Germain?",
+    "answer_1": "672",
+    "answer_2": "654",
+    "answer_3": "690",
+    "answer_4": "610",
+    "correct_answer": "672"
+  }
+]
